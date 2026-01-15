@@ -5,7 +5,7 @@ This repository contains my **personal portfolio website**, built using **HTML a
 and hosted using **GitHub Pages**.
 
 ## 🚀 Live Website
-👉 https://rojitbaral-1317.github.io
+👉 https://RojitBaral-1317.github.io/potfolio
 
 ---
 
